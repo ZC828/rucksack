@@ -43,3 +43,6 @@ All default to `false`.
 - [`fallbacks`](#fallbacks)
 
 - [`autoprefixer`](#autoprefixing)
+
+## Error reporting
+Enable reporting, which outputs verbose errors and messages from all of the plugins used inside Rucksack to your console, with the `reporter` flag. Defaults to `false`.

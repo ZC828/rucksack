@@ -1,15 +1,16 @@
 ---
 title: "Property Aliases"
 anchor: "alias"
-weight: 4
+weight: 8
 ---
 ```css
 @alias {
   fs: font-size;
-  br: border-radius;
+  fw: font-weight;
 }
 
 .foo {
   fs: 16px;
+  fw: bold;
 }
 ```

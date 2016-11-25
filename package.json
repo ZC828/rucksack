@@ -19,10 +19,11 @@
   },
   "devDependencies": {
     "gulp": "*",
-    "gulp-stylus": "*",
     "gulp-concat": "*",
+    "gulp-livereload": "*",
+    "gulp-stylus": "*",
     "gulp-uglify": "*",
-    "wiredep": "*",
-    "gulp-livereload": "*"
+    "rupture": "^0.6.2",
+    "wiredep": "*"
   }
 }

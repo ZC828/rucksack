@@ -1,7 +1,7 @@
 ---
 title: "Font Src Generation"
 anchor: "font-src"
-weight: 7
+weight: 6
 ---
 ```css
 @font-face {
